@@ -4,7 +4,7 @@ The project was developed in Android Studio Electric Eel
 The repo only contains the <b>Java</b> files and <b>not</b> XML files<br>
 <br>
 Some info about me :<br>
-👋 Hi, I’m Venkatachalam G<br>
+👋 Hi, I’m Syed FAizan Muyeez<br>
 👀 I’m interested in Python Programming and Cloud<br>
-🌱 Currently studying for an Az-204 certification exam<br>
-📫 My LinkedIn profile link : https://www.linkedin.com/in/venkatachalam-g-23966923b/
+🌱 Currently  doing BE in Computer Science And Engineering <br>
+📫 My LinkedIn profile link :https://www.linkedin.com/in/syed-faizan-muyeez-172313213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
